@@ -37,4 +37,4 @@ git push -u origin master
 # 6. Result
 You can check the result in:
 
-* https://github.com/josejuansanchez/p2psp
+* https://github.com/user/repo
