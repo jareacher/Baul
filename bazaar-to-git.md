@@ -6,7 +6,7 @@ sudo apt-get install bzr-fastimport
 
 # 2. Get the `trunk` branch from launchpad
 ```
-bzr branch lp:p2psp 
+bzr branch lp:your_repo 
 ```
 
 # 3. Inside the directory of your local branch do the following
@@ -24,17 +24,17 @@ git commit -m "Imported bazaar to git"          # Do a commit
 # 4. Create the repository on GitHub
 In this step you will get the URL of the repository.
 
-* _Example_: https://github.com/josejuansanchez/p2psp.git
+* _Example_: https://github.com/jareacher/your_repo.git
 
 # 5. Push the repository from the command line
 *Remember*: You have to change the URL, and use the URL of your repository.
 
 ```
-git remote add origin https://github.com/josejuansanchez/p2psp.git
+git remote add origin https://github.com/jareacher/your_repo.git
 git push -u origin master
 ```
 
 # 6. Result
 You can check the result in:
 
-* https://github.com/user/repo
+* https://github.com/jareacher/your_repo
