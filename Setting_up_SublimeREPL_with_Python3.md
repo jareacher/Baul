@@ -1,4 +1,4 @@
-#Setting up SublimeREPL with Python3
+# Setting up SublimeREPL with Python3
 
 
 First I use mac OS, so already have Python 2.7 and 3.6.
